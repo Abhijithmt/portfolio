@@ -10,7 +10,7 @@ export default function Home(){
                 <div className="pl-24 pt-14 pr-24 font-bold">
                     <button className="text-white bg-[rgb(0,15,230)] flex items-center gap-2 cursor-pointer">SOFTWARE DEVELOPER <ArrowRight/></button>
                 </div>
-                <div className="px-20 mt-28">
+                <div className="px-20">
                     <hr className="h-0.5 bg-gray-700 border-0 my-8"></hr>
                 </div>
                 <div className="flex justify-between ">
