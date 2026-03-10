@@ -4,3 +4,6 @@ body{
   background-color: black;
 }
 
+@theme {
+  --font-poppins: "Poppins", sans-serif;
+}
